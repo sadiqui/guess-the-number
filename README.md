@@ -29,8 +29,8 @@ next value: 123    --> The range was correct
 To guess a correct and small range for a next value, I used **regression line +/- 6**.
 
 <div style="display: flex; height: 500px;">
-    <img src="images/concept.png" alt="linear/concept" style="flex: 1; width: 49%;">
-    <img src="images/formula.png" alt="linear/formula" style="flex: 1; width: 49%;">
+    <img src="student/images/concept.png" alt="linear/concept" style="flex: 1; width: 49%;">
+    <img src="student/images/formula.png" alt="linear/formula" style="flex: 1; width: 49%;">
 </div>
 
 ## Usage & Testing
